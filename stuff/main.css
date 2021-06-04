@@ -1,0 +1,63 @@
+.main{ text-align: center;
+font-style: italic;
+font-weight: bolder;
+color: blue;
+background: blueviolet;
+padding: 20px;
+margin-top: 3px;
+float: left;
+border-radius: 20px;
+border: 3px solid black;
+}
+
+ div p{
+border: 1px solid black;
+width: 100px;
+float: left;
+margin: 35px;
+padding: 30px;
+font-style: italic;
+border-radius: 20px;
+font-family: cursive;
+font-size: small;
+background: blueviolet;
+
+}
+
+body{ background: blue;}
+
+
+
+.pages{
+float:right;
+background: blueviolet;
+font-style: italic;
+padding: 20px;
+border-radius: 20px;
+border: 3px solid black;
+
+}
+form{background: blueviolet;
+padding: 50px;
+width: 300px;
+border-radius: 35px;
+margin: 0 auto;
+margin-top: 200px;
+}
+form input{ display: block;
+width: 200px;
+margin: auto;
+border-radius: 15px;
+color: blueviolet;
+
+}
+form label{
+padding-left: 45px;
+}
+span{color: palevioletred;
+text-align: center;
+background: blue;
+padding: 3px;
+border: 1px solid black;
+border-radius: 3px;
+}
