@@ -3,18 +3,19 @@ font-style: italic;
 font-weight: bolder;
 color: blue;
 background: blueviolet;
-padding: 20px;
+padding: 3px;
 margin-top: 3px;
-float: left;
+
 border-radius: 20px;
 border: 3px solid black;
 }
 
  div p{
+
 border: 1px solid black;
-width: 100px;
-float: left;
-margin: 35px;
+
+
+
 padding: 30px;
 font-style: italic;
 border-radius: 20px;
@@ -22,19 +23,21 @@ font-family: cursive;
 font-size: small;
 background: blueviolet;
 
+
 }
 
 body{ background: blue;}
 
 
 
-.pages{
-float:right;
+.pages {
+
 background: blueviolet;
 font-style: italic;
 padding: 20px;
 border-radius: 20px;
 border: 3px solid black;
+
 
 }
 form{background: blueviolet;
@@ -60,4 +63,19 @@ background: blue;
 padding: 3px;
 border: 1px solid black;
 border-radius: 3px;
+}
+.pages h2 {display: inline;}
+
+.displayflex{display: flex;
+justify-content: space-between;}
+
+
+
+.paragraphs{
+display: flex;
+flex-direction: row;
+
+
+
+
 }
