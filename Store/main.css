@@ -1,0 +1,76 @@
+html, body,h1,h2 {margin:0; padding:0;}
+
+body{font-family: 'Stint Ultra Condensed', cursive;
+background: blue;
+color: white;
+}
+
+#fresh{margin-top:200px;}
+
+
+
+h2{padding: 5px;
+font-size: 40px;
+margin-left: 60px;
+
+margin-bottom: 5px;}
+
+.main h1{text-align: center;
+font-size: 150px;
+margin-bottom: 10px;
+}
+hr {width: 23%;}
+.main p{text-align: center;
+font-size: 50px;
+letter-spacing: 5px;
+word-spacing: 5px;
+margin-top: 17px;
+
+}
+#line1{width: 95%;
+content: 10px;
+background: white; 
+height: 2px;
+border-radius: 100px;
+margin-top: 1px;
+}
+#nav{float:right;
+padding: 10px;
+
+}
+span:hover{color: pink;}
+
+.images img {
+width: 900px;
+height: 700px;
+
+
+
+
+
+}
+.jumbotron{
+height: 100vh;
+background-image: url(green-vegetables-on-brown-wooden-chopping-board-3952047.jpg);
+background-repeat: no-repeat;
+}
+
+.images{background: black;}
+
+.images p{width: 800px;
+font-size: 30px;
+margin-left: 80px;
+margin-top: 210px;
+}
+
+.images p span{font-size: 50px;
+}
+.num1{display: flex;
+flex-direction: row;}
+.num2{display: flex; 
+flex-direction: row-reverse;}
+.num3{display: flex; 
+flex-direction: row;
+}
+
+.num2 p {padding-right: 100px;}
